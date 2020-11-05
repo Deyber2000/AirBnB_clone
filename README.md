@@ -89,7 +89,7 @@ $
 The HolbertonBnB console supports the following commands:
 
 * **create**
-  * Usage: `create <class>`
+  * *Usage*: `create <class>`
 
 Creates a new instance of a given class. The class' ID is printed and 
 the instance is saved to the file `file.json`.
@@ -106,7 +106,7 @@ Model", "id": "119be863-6fe5-437e-a180-b9892e8746b8"}}
 ```
 
 * **show**
-  * Usage: `show <class> <id>` or `<class>.show(<id>)`
+  * *Usage*: `show <class> <id>` or `<class>.show(<id>)`
 
 Prints the string representation of a class instance based on a given id.
 
