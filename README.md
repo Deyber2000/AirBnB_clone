@@ -127,7 +127,7 @@ c3240b29f46', 'created_at': datetime.datetime(2019, 2, 17, 21, 34, 3, 635828),
 (hbnb) 
 ```
 * **destroy**
-  * Usage: `destroy <class> <id>` or `<class>.destroy(<id>)`
+  * *Usage*: `destroy <class> <id>` or `<class>.destroy(<id>)`
 
 Deletes a class instance based on a given id. The storage file `file.json` 
 is updated accordingly.
@@ -147,7 +147,7 @@ $ cat file.json ; echo ""
 ```
 
 * **all**
-  * Usage: `all` or `all <class>` or `<class>.all()`
+  * *Usage*: `all` or `all <class>` or `<class>.all()`
 
 Prints the string representations of all instances of a given class. If no 
 class name is provided, the command prints all instances of every class.
@@ -196,7 +196,7 @@ c3-f4bf-425e-b1d4-165f52c6ff81) {'updated_at': datetime.datetime(2019, 2, 17, 2
 ```
 
 * **count**
-  * Usage: `count <class>` or `<class>.count()`
+  * *Usage*: `count <class>` or `<class>.count()`
 
 Retrieves the number of instances of a given class.
 
@@ -217,7 +217,7 @@ aa229cbb-5b19-4c32-8562-f90a3437d301
 ```
 
 * **update**
-  * Usage: `update <class> <id> <attribute name> "<attribute value>"` or
+  * *Usage*: `update <class> <id> <attribute name> "<attribute value>"` or
 `<class>.update(<id>, <attribute name>, <attribute value>)` or `<class>.update(
 <id>, <attribute dictionary>)`.
 
