@@ -86,7 +86,7 @@ $
 
 ### Console Commands
 
-The HolbertonBnB console supports the following commands:
+HolbertonBnB console supports the following commands:
 
 * **create**
   * *Usage*: `create <class>`
@@ -108,7 +108,7 @@ Model", "id": "119be863-6fe5-437e-a180-b9892e8746b8"}}
 * **show**
   * *Usage*: `show <class> <id>` or `<class>.show(<id>)`
 
-Prints the string representation of a class instance based on a given id.
+Prints string representation of a class instance based on a given id.
 
 ```
 $ ./console.py
