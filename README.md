@@ -274,4 +274,4 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 * **Deyber Castañeda** <[Deyber2000](https://github.com/Deyber2000)>
-* **Steven Espinoza** <[Pendent](https://github.com/)>
+* **Steven Espinoza** <[StivenZ](https://github.com/)>
