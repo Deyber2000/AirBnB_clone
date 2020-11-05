@@ -221,7 +221,7 @@ aa229cbb-5b19-4c32-8562-f90a3437d301
 `<class>.update(<id>, <attribute name>, <attribute value>)` or `<class>.update(
 <id>, <attribute dictionary>)`.
 
-Updates a class instance based on a given id with a given key/value attribute 
+Updates a class instance based provided an id with a given key/value attribute 
 pair or dictionary of attribute pairs. If `update` is called with a single 
 key/value attribute pair, only "simple" attributes can be updated (ie. not 
 `id`, `created_at`, and `updated_at`). However, any attribute can be updated by 
