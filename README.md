@@ -150,7 +150,7 @@ $ cat file.json ; echo ""
   * *Usage*: `all` or `all <class>` or `<class>.all()`
 
 Prints the string representations of all instances of a given class. If no 
-class name is provided, the command prints all instances of every class.
+class name is provided, prints all instances of every class.
 
 ```
 $ ./console.py
