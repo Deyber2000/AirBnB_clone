@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="https://github.com/Deyber2000/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
+</p>
+
 <h1 align="center">HolbertonBnB</h1>
 <p align="center">An AirBnB clone.</p>
 
 ---
-
 ## Description :house:
 
 HolbertonBnB is a complete web application, integrating database storage, 
